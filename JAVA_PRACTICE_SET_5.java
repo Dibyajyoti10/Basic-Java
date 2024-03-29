@@ -1,5 +1,4 @@
-//sum of n even numbers using FOR LOOP
-
+// Run each questions separately: each commented line is a question ,below it there is its running code 
 
 import java .util.Scanner;
 public class JAVA_PRACTICE_SET_5 {
@@ -7,6 +6,10 @@ public class JAVA_PRACTICE_SET_5 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+		
+ 		//sum of n even numbers using FOR LOOP
+
+		
 		Scanner obj= new Scanner (System.in);
 		System.out.println("Enter a number");
 		int a = obj.nextInt();
